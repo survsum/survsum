@@ -2,6 +2,27 @@
 i push
 
 
+                    ███████╗██╗   ██╗ █████╗
+                    ██╔════╝██║   ██║██╔══██╗
+                    █████╗  ██║   ██║███████║
+                    ██╔══╝  ╚██╗ ██╔╝██╔══██║
+                    ███████╗ ╚████╔╝ ██║  ██║
+                    ╚══════╝  ╚═══╝  ╚═╝  ╚═╝
+
+             █ E V A N G E L I O N   P R O T O C O L █
+
+<div align="center">
+WHO AM I?
+        ╱|、
+       (˚ˎ 。7
+        |、˜〵
+        じしˍ,)ノ
+
+       "I build things that probably
+        shouldn't work... and then
+        make them work anyway."
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/survcc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurav suman) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/twzci) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@surv555) 
 
