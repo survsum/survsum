@@ -9,8 +9,10 @@ i push
                                                   ███████╗ ╚████╔╝ ██║  ██║
                                                    ╚══════╝  ╚═══╝  ╚═╝  ╚═╝
 
-
+<div alight="center">
 WHO AM I?
+
+
         ╱|、
        (˚ˎ 。7
         |、˜〵
@@ -21,7 +23,7 @@ WHO AM I?
         make them work anyway."
 
 
-
+</div>
         
 
 
